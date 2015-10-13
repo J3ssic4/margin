@@ -1,0 +1,22 @@
+.margin{
+	border:15px solid yellow;
+	margin:30px 1000px 20px 10px ;
+	background-color:white; 
+	padding:20px 11px 20px 15px;
+}
+.margin1{
+	border:15px solid yellow;
+	margin:auto 500px;
+	background-color:white; 
+	padding:20px 5px 20px 5px;
+}
+.centro{
+	width: 230px;
+	border:20px yellow solid;
+	padding:30px; 
+	margin: 50px auto;
+	text-align:left;
+}
+.border{
+	border:3px solid gray;
+}
